@@ -39,7 +39,6 @@ Passionate **Full-Stack MERN Developer** (BCA student) who loves turning ideas i
 
 ### 📊 GitHub Stats
 ![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyaSingh7877&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaSingh7877&layout=compact&theme=radical)
 
 ---
 
